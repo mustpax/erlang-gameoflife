@@ -7,5 +7,5 @@ to stick with Erlang conventions for recursion and whatnot, but there are some
 rough edges, aesthetically speaking around the array handling. Still it works,
 as far as I can tell, hope it helps.
 
-[gol] <http://en.wikipedia.org/wiki/Conway's_Game_of_Life> "Conways Game of Life"
+[gol]: <http://en.wikipedia.org/wiki/Conway's_Game_of_Life> "Conways Game of Life"
 
